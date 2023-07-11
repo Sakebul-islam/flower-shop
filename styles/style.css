@@ -126,7 +126,7 @@ header {
   width: calc(100% / 3);
 }
 .featured_thumb {
-  height: 430px;
+  height: 450px;
   border-radius: 50% 50% 0 0;
   -webkit-border-radius: 50% 50% 0 0;
   -moz-border-radius: 50% 50% 0 0;
