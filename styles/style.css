@@ -392,6 +392,10 @@ header {
 .blog_title a:hover {
   color: #e55473;
 }
+.blog_button {
+  margin-top: 35px;
+  text-align: center;
+}
 /* footer_section */
 .footer_section {
   padding: 128px 0;
